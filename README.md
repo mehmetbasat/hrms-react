@@ -1,0 +1,1 @@
+![alt text](<Başlıksız Diyagram.drawio.png>)
